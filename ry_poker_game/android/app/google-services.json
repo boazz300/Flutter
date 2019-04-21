@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681655798292",
+    "firebase_url": "https://rypokergame.firebaseio.com",
+    "project_id": "rypokergame",
+    "storage_bucket": "rypokergame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681655798292:android:59e019287612ca2d",
+        "android_client_info": {
+          "package_name": "com.flutter.boazhazan.ry_poker_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681655798292-qdot4ftpqmi33nv581b4u8veq5hh3qog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.boazhazan.ry_poker_game",
+            "certificate_hash": "5fedca8fa6d063d7dc1a9570b06e698f6cfae98d"
+          }
+        },
+        {
+          "client_id": "681655798292-umqjj7ofngq4pp11jmgfsmeqoju2jl96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0m9ZzwYCa5f46pP7DtJlB5Ddwd4Mdek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681655798292-umqjj7ofngq4pp11jmgfsmeqoju2jl96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
